@@ -1,5 +1,8 @@
 # Project Hydra Loadingscreen
 
+## Preview:
+https://streamable.com/uqmn4j
+
 ## Support
 
 For any questions, feedback, or assistance with using the loadingscreen, you can join our Discord server:
