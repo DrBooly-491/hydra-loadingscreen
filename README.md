@@ -4,7 +4,7 @@
 
 For any questions, feedback, or assistance with using the NPC Interaction System, you can join our Discord server:
 
-[![Discord](https://img.shields.io/discord/1131142366204530769?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/9wsVqqgCVz)
+[![Discord](https://img.shields.io/discord/1131142366204530769?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/b5kjPY2FM8)
 
 This loading screen for FiveM by Project Hydra provides a sleek and functional interface for users. It includes the following functionalities:
 
